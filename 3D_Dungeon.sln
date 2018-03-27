@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D_Dungeon", "3D_Dungeon.csproj", "{FBB7ACD7-C527-7B10-C870-34373B86922F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D_Dungeon.Editor", "3D_Dungeon.Editor.csproj", "{305E436D-C3F2-F28B-A70C-C8DA8624A963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBB7ACD7-C527-7B10-C870-34373B86922F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB7ACD7-C527-7B10-C870-34373B86922F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB7ACD7-C527-7B10-C870-34373B86922F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB7ACD7-C527-7B10-C870-34373B86922F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{305E436D-C3F2-F28B-A70C-C8DA8624A963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305E436D-C3F2-F28B-A70C-C8DA8624A963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305E436D-C3F2-F28B-A70C-C8DA8624A963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305E436D-C3F2-F28B-A70C-C8DA8624A963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
